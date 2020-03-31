@@ -1,0 +1,16 @@
+{
+  "name": "pastebin-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node discordBot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
